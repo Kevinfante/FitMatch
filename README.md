@@ -1,5 +1,5 @@
 
-##FitMatch
+## FitMatch
 
 1. Fork and clone this repo, then open two terminal tabs and navigate to the root directory.
 
