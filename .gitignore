@@ -1,2 +1,5 @@
 node_modules
 bundle.js
+keys.js
+config.js
+client/dist/images
